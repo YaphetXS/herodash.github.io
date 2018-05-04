@@ -1,0 +1,13 @@
+{
+    "monster":{
+        "1":{
+            "color":1,
+            "star":1,
+            "type":1,
+            "uplv":1
+        }
+    },
+    "monsterUplv":{
+        "1":1
+    }
+}
